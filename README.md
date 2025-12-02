@@ -1,5 +1,5 @@
-#3D aretfact on michael collins![3d artefact](https://github.com/user-attachments/assets/82199aaa-80ba-4c3c-9359-93b2a2fa1319)
-![3d artefact](https://github.com/user-attachments/assets/122a5186-6279-4daf-9015-3c6f3cb77774)
+
+# Michael Collins 3D Artefact Project
 
 
 In my individual analysis, I examined a 3D artefact on Michael Collins. My role was to touch on the artefact requirements, methods, and testing, the main Goals, and lastly our initial expectations.
